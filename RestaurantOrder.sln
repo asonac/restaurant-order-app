@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestaurantOrder", "RestaurantOrder\RestaurantOrder.csproj", "{F68C3F52-881D-4686-A433-519CDF1B0CA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "web-api-tests", "web-api-tests\web-api-tests.csproj", "{B77265A5-C9A4-4964-ACC1-4D82B4A470B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68C3F52-881D-4686-A433-519CDF1B0CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68C3F52-881D-4686-A433-519CDF1B0CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68C3F52-881D-4686-A433-519CDF1B0CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68C3F52-881D-4686-A433-519CDF1B0CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B77265A5-C9A4-4964-ACC1-4D82B4A470B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77265A5-C9A4-4964-ACC1-4D82B4A470B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77265A5-C9A4-4964-ACC1-4D82B4A470B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77265A5-C9A4-4964-ACC1-4D82B4A470B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BC7BD4B-BAF5-4DA7-8236-6AB38AFA0794}
+	EndGlobalSection
+EndGlobal
